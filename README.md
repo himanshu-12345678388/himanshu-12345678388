@@ -1,16 +1,68 @@
-## Hi there 👋
+````md
+# ~/himanshu
 
-<!--
-**himanshu-12345678388/himanshu-12345678388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> whoami
+CS student | Linux enjoyer | Building random stuff at 2 AM
 
-Here are some ideas to get you started:
+> interests
+system programming
+backend development
+automation
+SAP & ABAP
+developer tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> currently_learning
+C sockets
+TCP networking
+Bash scripting
+ABAP
+backend systems
+
+> latest_projects
+AI-terminal-assistant
+file-organizer.sh
+mini networking experiments
+CLI utilities
+
+> philosophy
+if it can be automated,
+it should be automated.
+
+> fun_fact
+I break things.
+Then I learn how they work.
+````
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,bash,linux,git,github,react,vscode" />
+</p>
+
+---
+
+## Current Status
+
+```txt
+Learning backend development...
+[███████████░░░░░░] 60%
+```
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=himanshu-12345678388\&show_icons=true\&theme=tokyonight)
+
+---
+
+## Connect
+
+* LinkedIn: your-linkedin
+* Portfolio: coming soon...
+
+```
+```
