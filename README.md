@@ -3,7 +3,7 @@
 
 ```bash
 > whoami
-CS student | Linux enjoyer | Building random stuff at 2 AM
+CS student | Linux enjoyer | SAP Techno-Functional consultant
 
 > interests
 system programming
