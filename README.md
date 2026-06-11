@@ -6,18 +6,21 @@
 CS student | Linux enjoyer | SAP Techno-Functional consultant
 
 > interests
-system programming
-backend development
-automation
-SAP & ABAP
+Backend development
+Linux System
+SAP-Business process
+SAP-ABAP Development
+System-Design
 developer tools
 
+
 > currently_learning
-C sockets
-TCP networking
-Bash scripting
+Autonomous Enterprise
 ABAP
-backend systems
+Networking
+Scripting
+Algorithms
+backend 
 
 > latest_projects
 AI-terminal-assistant
