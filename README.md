@@ -42,7 +42,7 @@ Then I learn how they work.
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,bash,linux,git,github,abap,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,bash,linux,git,github,vscode,SAP" />
 </p>
 
 ---
