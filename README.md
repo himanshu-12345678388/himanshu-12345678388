@@ -3,7 +3,7 @@
 
 ```bash
 > whoami
-CS student | Linux enjoyer | SAP Techno-Functional consultant
+CS student | SAP Consultant 
 
 > interests
 Backend development
@@ -23,10 +23,10 @@ Algorithms
 backend 
 
 > latest_projects
-AI-terminal-assistant
-file-organizer.sh
-mini networking experiments
-CLI utilities
+E-SHELL
+Inventory management system 
+Task Tracker
+Portflio
 
 > philosophy
 if it can be automated,
@@ -42,7 +42,7 @@ Then I learn how they work.
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,bash,linux,git,github,react,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,bash,linux,git,github,abap,vscode" />
 </p>
 
 ---
