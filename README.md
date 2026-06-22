@@ -29,8 +29,7 @@ Task Tracker
 Portflio
 
 > philosophy
-if it can be automated,
-it should be automated.
+  FAFO
 
 > fun_fact
 I break things.
