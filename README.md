@@ -64,5 +64,6 @@ Learning backend development...
 ## Connect
 Linkedin : www.linkedin.com/in/himanshu-mishra-389085373
 portfolio : https://himanshu-12345678388.github.io/PORTFOLIO/
+Medium : https://medium.com/@mishrahimanshu7372
 ```
 ```
