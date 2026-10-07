@@ -7,11 +7,10 @@ CS student | SAP Consultant
 
 > interests
 Backend development
-Linux System
-SAP-Business process
-SAP-ABAP Development
+Linux Systems
+SAP-developer
 System-Design
-developer tools
+Cloud
 
 
 > currently_learning
